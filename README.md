@@ -1,1 +1,3 @@
-# Repeat_word_LINEbot
+# オウム返しLINEbot
+
+### 単語をだた繰り返すだけのつまらないオウム返しLINEを作成しました
