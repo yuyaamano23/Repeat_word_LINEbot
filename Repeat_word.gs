@@ -1,4 +1,4 @@
-var CHANNEL_ACCESS_TOKEN = 'o3KyH/TUeihLLp1etRfadYTzGbVz9QcUsY+Pixm0DbWRaj/ej5eIiKabZ0H9mQA4J0HJUl5c2o1TKFJO1QPPclKavtd2DnACN7MmNCoPq3bh1V+O1UoffFJUMktxvAO8S+VEtxsR3Md4k2deRrv+LAdB04t89/1O/w1cDnyilFU=';
+var CHANNEL_ACCESS_TOKEN = 'アクセストークン';
 
 function doPost(e) {
   var replytoken= JSON.parse(e.postData.contents).events[0].replyToken;
